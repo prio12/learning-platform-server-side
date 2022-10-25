@@ -1,0 +1,22 @@
+[
+    {
+        "id": "01",
+        "title": "Programing is Fun",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+        "img":"https://previews.123rf.com/images/shaihalud/shaihalud1706/shaihalud170600042/80493602-picture-of-a-smart-programmer-man-joggling-with-programming-languages-and-technologies-cartoon-chara.jpg"
+      },
+    {
+        "id": "02",
+        "title": "Programing is not Fun",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201121103850/Why-New-Developers-Should-Work-in-a-Startup.png"
+      },
+    {
+        "id": "03",
+        "title": "Programing is very Fun",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "img":"https://simpleprogrammer.com/wp-content/uploads/2017/03/Tem-Work-1024x576.png"
+      }
+
+      
+]
