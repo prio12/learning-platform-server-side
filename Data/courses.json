@@ -1,0 +1,50 @@
+[
+    {
+        "category_id": "01",
+        "rating": { "number": 4.5},
+        "total_view": 488,
+        "title": "Learn Python: The Complete Python Programming Course",
+        "thumbnail_url": "https://media.istockphoto.com/vectors/laptop-with-a-code-computer-language-python-vector-id1218905862?k=20&m=1218905862&s=612x612&w=0&h=E8Q1f-wOPtDQCpjxBq2FBTNwW5T3_dhQiAq-zyLevSY=",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+    {
+        "category_id": "02",
+        "rating": { "number": 4.8},
+        "total_view": 488,
+        "title": "Learn Python: The Complete Python Programming Course",
+        "thumbnail_url": "https://media.istockphoto.com/vectors/laptop-with-a-code-computer-language-python-vector-id1218905862?k=20&m=1218905862&s=612x612&w=0&h=E8Q1f-wOPtDQCpjxBq2FBTNwW5T3_dhQiAq-zyLevSY=",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+    {
+        "category_id": "03",
+        "rating": { "number": 4.5},
+        "total_view": 488,
+        "title": "Python for Beginners - Learn Programming from scratch",
+        "thumbnail_url": "https://media.istockphoto.com/vectors/laptop-with-a-code-computer-language-python-vector-id1218905862?k=20&m=1218905862&s=612x612&w=0&h=E8Q1f-wOPtDQCpjxBq2FBTNwW5T3_dhQiAq-zyLevSY=",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+    {
+        "category_id": "04",
+        "rating": { "number": 4.5},
+        "total_view": 488,
+        "title": "The Complete 2022 Web Development Bootcamp",
+        "thumbnail_url": "https://media.istockphoto.com/vectors/laptop-with-a-code-computer-language-python-vector-id1218905862?k=20&m=1218905862&s=612x612&w=0&h=E8Q1f-wOPtDQCpjxBq2FBTNwW5T3_dhQiAq-zyLevSY=",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+    {
+        "category_id": "05",
+        "rating": { "number": 4.5},
+        "total_view": 488,
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
+        "thumbnail_url": "https://media.istockphoto.com/vectors/laptop-with-a-code-computer-language-python-vector-id1218905862?k=20&m=1218905862&s=612x612&w=0&h=E8Q1f-wOPtDQCpjxBq2FBTNwW5T3_dhQiAq-zyLevSY=",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      },
+    {
+        "category_id": "06",
+        "rating": { "number": 4.5},
+        "total_view": 488,
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
+        "thumbnail_url": "https://media.istockphoto.com/vectors/laptop-with-a-code-computer-language-python-vector-id1218905862?k=20&m=1218905862&s=612x612&w=0&h=E8Q1f-wOPtDQCpjxBq2FBTNwW5T3_dhQiAq-zyLevSY=",
+        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged."
+      }
+]
