@@ -7,11 +7,12 @@
         },
         "category_id": "01",
         "name": "Python",
+        "price":60,
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_downloaded": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "title": "Python for Beginners - Learn Programming from scratch",
         "thumbnail_url": "https://www.fossmint.com/wp-content/uploads/2020/03/Udemy-Advance-Python-Learning-Courses.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "Python For Beginners : This course is meant for absolute beginners in programming or in python."
       },
     {
         "_id": "2222",
@@ -21,11 +22,12 @@
         },
         "category_id": "02",
         "name": "C++",
+        "price":55,
         "rating": { "number": 4.6, "badge": "Excellent" },
         "total_downloaded": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "title": "Beginning C++ Programming - From Beginner to Beyond",
         "thumbnail_url": "https://i.pinimg.com/736x/b0/f9/e2/b0f9e230488cf987c8ad7c1d4712eefb--juniper-source-code.jpg",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "Obtain Modern C++ Object-Oriented Programming (OOP) and STL skills. C++14 and C++17 covered. C++20 info see below."
       },
     {
         "_id": "333",
@@ -35,11 +37,12 @@
         },
         "category_id": "03",
         "name": "PHP",
+        "price":70,
         "rating": { "number": 4.7, "badge": "Excellent" },
         "total_downloaded": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "title": "PHP for Beginners - Become a PHP Master - CMS Project",
         "thumbnail_url": "https://www.learnatrise.in/wp-content/uploads/2019/01/php-training-course.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "PHP for Beginners: learn everything you need to become a professional PHP developer with practical exercises & projects."
       },
     {
         "_id": "444",
@@ -49,11 +52,12 @@
         },
         "category_id": "04",
         "name": "Javascript",
+        "price":80,
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_downloaded": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "title": "The Complete JavaScript Course 2022: From Zero to Expert!",
         "thumbnail_url": "https://miro.medium.com/max/1400/1*5eV1xmJs2-sJ4DdejfdnQA.png",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "The modern JavaScript course for everyone! Master JavaScript with projects, challenges and theory. Many courses in one!"
       },
     {
         "_id": "555",
@@ -63,11 +67,12 @@
         },
         "category_id": "05",
         "name": "Css",
+        "price":30,
         "rating": { "number": 4.8, "badge": "Excellent" },
         "total_downloaded": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "title": "CSS - The Complete Guide 2022 (incl. Flexbox, Grid & Sass)",
         "thumbnail_url": "https://miro.medium.com/max/750/0*GpOUO1n2m49hMkbh.jpg",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "Learn CSS for the first time or brush up your CSS skills and dive in even deeper. EVERY web developer has to know CSS."
       },
     {
         "_id": "666",
@@ -77,10 +82,11 @@
         },
         "category_id": "06",
         "name": "React",
+        "price":50,
         "rating": { "number": 4.6, "badge": "Excellent" },
         "total_downloaded": 488,
-        "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
+        "title": "React - The Complete Guide (incl Hooks, React Router, Redux)",
         "thumbnail_url": "https://miro.medium.com/max/1200/0*vc4LVhHM3tH-2Sfh.jpg",
-        "details": "Wednesday, August 24, 2022 | Tag Cloud Tags: Biden, EU, Euro, Europe, Joe Biden, Military, News, Russia, Security, UK, Ukraine, United States, Worthy News (Worthy News) – U.S. President Joe Biden has announced nearly $3 billion in new U.S. military aid for Kyiv as Ukraine marked its independence day six months after Russia invaded the country.'The United States of America is committed to supporting the people of Ukraine as they continue the fight to defend their sovereignty. As part of that commitment, I am proud to announce our biggest tranche of security assistance to date: approximately $2."
+        "details": "Dive in and learn React.js from scratch! Learn Reactjs, Hooks, Redux, React Routing, Animations, Next.js and way more!"
       }
 ]

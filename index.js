@@ -4,7 +4,7 @@ const port = process.env.PORT || 5000;
 const cors = require("cors")
 
 const homeData = require("./Data/homeData.json");
-const categories = require("./Data/categories.json");
+// const categories = require("./Data/categories.json");
 const courses = require("./Data/courses.json");
 
 
