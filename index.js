@@ -20,9 +20,9 @@ app.get('/homeData', (req,res) =>{
     res.send(homeData)
 })
 
-app.get('/courses-categories', (req,res) =>{
-    res.send(categories)
-})
+// app.get('/courses-categories', (req,res) =>{
+//     res.send(categories)
+// })
 
 app.get('/courses', (req, res) =>{
     res.send(courses)

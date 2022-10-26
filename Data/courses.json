@@ -6,6 +6,7 @@
           "is_trending": true
         },
         "category_id": "01",
+        "name": "Python",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_downloaded": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -19,6 +20,7 @@
           "is_trending": true
         },
         "category_id": "02",
+        "name": "C++",
         "rating": { "number": 4.6, "badge": "Excellent" },
         "total_downloaded": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -32,6 +34,7 @@
           "is_trending": true
         },
         "category_id": "03",
+        "name": "PHP",
         "rating": { "number": 4.7, "badge": "Excellent" },
         "total_downloaded": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -45,6 +48,7 @@
           "is_trending": true
         },
         "category_id": "04",
+        "name": "Javascript",
         "rating": { "number": 4.5, "badge": "Excellent" },
         "total_downloaded": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -58,6 +62,7 @@
           "is_trending": true
         },
         "category_id": "05",
+        "name": "Css",
         "rating": { "number": 4.8, "badge": "Excellent" },
         "total_downloaded": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
@@ -71,6 +76,7 @@
           "is_trending": true
         },
         "category_id": "06",
+        "name": "React",
         "rating": { "number": 4.6, "badge": "Excellent" },
         "total_downloaded": 488,
         "title": "Biden Pledges Nearly $3 Billion To Ukraine In Largest U.S. Military Aid Package Yet",
