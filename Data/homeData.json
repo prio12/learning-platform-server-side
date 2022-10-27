@@ -2,19 +2,19 @@
     {
         "id": "01",
         "title": "Programing is Fun",
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged. ",
+        "details": "Writing code is like playing golf. When you start, it's not fun. You need to learn everything: which driver to use for hitting the ball in such a way, how to position yourself, and so on. The pleasure will come as you go along, begin to understand things, and start to have fun with them.",
         "img":"https://previews.123rf.com/images/shaihalud/shaihalud1706/shaihalud170600042/80493602-picture-of-a-smart-programmer-man-joggling-with-programming-languages-and-technologies-cartoon-chara.jpg"
       },
     {
         "id": "02",
-        "title": "Programing is not Fun",
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "title": "The Developer's Guide to Launching Your Startup: Getting Started ",
+        "details": "Starting your own company is exciting. Creative juices flow. Major progress is made on a daily basis. Your mornings start with a quick browse through tech, start-up and entrepreneurship related pages- what a great way to get yourself pumped for the day.",
         "img": "https://media.geeksforgeeks.org/wp-content/cdn-uploads/20201121103850/Why-New-Developers-Should-Work-in-a-Startup.png"
       },
     {
         "id": "03",
-        "title": "Programing is very Fun",
-        "details": "Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry's standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries, but also the leap into electronic typesetting, remaining essentially unchanged.",
+        "title": "Teamwork is the key to modern programming",
+        "details": "Such developers usually work in teams with more experienced colleagues whose knowledge, sometimes accumulated over decades, is readily available to those who know how to extract and absorb it. Let’s look at some familiar techniques that make such knowledge transfer within a team efficient.",
         "img":"https://simpleprogrammer.com/wp-content/uploads/2017/03/Tem-Work-1024x576.png"
       }
 
